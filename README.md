@@ -14,6 +14,11 @@ This script uses answers from Unpuzzle.net to complete Edpuzzles. Answers will o
 The script also allows for you to leave the Edpuzzle tab and have the video play in the background
 
 ___
+
+## Note:
+ - *The script isn't working yet for Edpuzzle questions where there are multiple responses during one timestamp.*
+ - *The script may not work if Edpuzzle is being launched as a service from another platform, such as "Launch External Tool" from CanvasLMS*
+___
 Things I might add:
   - Saving token in storage for multiple Edpuzzle attempts within the same session
   - Skipping through the video
